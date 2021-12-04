@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software developing 
 - 🌱 I’m currently learning CLoud computing 
 - 💞️ I’m looking to collaborate on security systems 
-- 📫 How to reach me antonis.g.kotsikaris@gmail.com
+- 📫 How to reach me antonis.kotsikaris@gmail.com
 
 <!---
 AntonisKotsikaris/AntonisKotsikaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
