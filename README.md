@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntonisKotsikaris
-- 👀 I’m interested in Software developing 
-- 🌱 I’m currently learning CLoud computing 
+- 👀 I’m interested in Software Developement
+- 🌱 I’m currently learning Data computing 
 - 💞️ I’m looking to collaborate on security systems 
 - 📫 How to reach me antonis.kotsikaris@gmail.com
 
